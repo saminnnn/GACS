@@ -39,10 +39,8 @@ public class DataGetter {
     private String socialMedia="/news/eid/59991";
     private String twitter="/news/eid/61157";
     private String option = "?format=json";
-    private String host ="69.184.252.3";
-    private int port = 8196;
-    //private String host ="localhost";
-    //private int port = 8194;
+    private String host =
+    private int port = 
     
     SessionOptions sessionOptions;
     CorrelationID fundamentalFeedID;
